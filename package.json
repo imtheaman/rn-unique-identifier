@@ -1,0 +1,47 @@
+{
+  "name": "rn-unique-identifier",
+  "version": "1.0.6",
+  "description": "Get persistent unique identifier in android & ios both",
+  "react-native": "js/index",
+  "source": "js/index",
+  "files": [
+    "js",
+    "android",
+    "ios",
+    "rn-unique-identifier.podspec",
+    "!android/build",
+    "!ios/build",
+    "!**/__tests__",
+    "!**/__fixtures__",
+    "!**/__mocks__"
+  ],
+  "keywords": [
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "repository": "https://github.com/imtheaman/rn-unique-identifier.git",
+  "author": "Aman Kumar <imtheaman@proton.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imtheaman/rn-unique-identifier/issues"
+  },
+  "homepage": "https://github.com/imtheaman/rn-unique-identifier#readme",
+  "dependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "codegenConfig": {
+    "name": "RTNUniqueIdentifierSpec",
+    "type": "modules",
+    "jsSrcsDir": "js",
+    "android": {
+      "javaPackageName": "pkg.uniqueidentifier"
+    }
+  }
+}
