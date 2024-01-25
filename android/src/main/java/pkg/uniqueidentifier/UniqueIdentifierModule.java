@@ -17,7 +17,7 @@ import java.util.UUID;
 
 public class UniqueIdentifierModule extends NativeUniqueIdentifierSpec {
 
-    public static String NAME = "UniqueIdentifier";
+    public static String NAME = "RTNUniqueIdentifier";
 
     UniqueIdentifierModule(ReactApplicationContext context) {
         super(context);
