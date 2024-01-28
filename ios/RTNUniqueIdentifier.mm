@@ -1,4 +1,3 @@
-#import "RTNUniqueIdentifierSpec.h"
 #import "RTNUniqueIdentifier.h"
 
 @implementation RTNUniqueIdentifier
