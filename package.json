@@ -1,6 +1,6 @@
 {
   "name": "rn-unique-identifier",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Get persistent unique identifier in android & ios both",
   "react-native": "js/index",
   "source": "js/index",
