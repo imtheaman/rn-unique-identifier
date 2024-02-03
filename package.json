@@ -1,6 +1,6 @@
 {
   "name": "rn-unique-identifier",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "Get persistent unique identifier in android & ios both",
   "react-native": "js/index",
   "source": "js/index",
@@ -27,10 +27,6 @@
     "url": "https://github.com/imtheaman/rn-unique-identifier/issues"
   },
   "homepage": "https://github.com/imtheaman/rn-unique-identifier#readme",
-  "dependencies": {
-    "react": "*",
-    "react-native": "*"
-  },
   "devDependencies": {},
   "peerDependencies": {
     "react": "*",
